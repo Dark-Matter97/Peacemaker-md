@@ -1,7 +1,7 @@
 {
   "name": "PEACEMAKER-MD",
   "version": "4.0.0",
-  "description": "A WhatsApp Bot Created By EMMANUEL",
+  "description": "A WhatsApp Bot Created By Peacemaker-cyber",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name PEACEMAKER-MD",
