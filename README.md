@@ -38,9 +38,11 @@
 
    
 
-<h4 align="center">1. 𝐇𝐄𝐑𝐎𝐊𝐔</h4>
+</a>
+</p>
 <p align="center">
-<a href='[https://verificationweb-vocw-git-main-peacemaker-s-projects.vercel.app/?template=https://verificationweb-vocw-git-main-peacemaker-s-projects.vercel.app/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Peacemaker-cyber/Peacemaker-md/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY NEXUS-AI BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  </a>
 </p>
   2..DEPLOY ON RENDER ⤵️
 
