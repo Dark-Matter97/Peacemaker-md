@@ -73,7 +73,7 @@ Use *.update* to update.`;
 
     // Send the status message with an image
     await conn.sendMessage(from, {
-      image: { url: 'https://files.catbox.moe/7zfdcq.jpg' },
+      image: { url: 'https://files.catbox.moe/degy3b.jpg' },
       caption: statusMessage,
       contextInfo: {
         mentionedJid: [m.sender],
@@ -81,7 +81,7 @@ Use *.update* to update.`;
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363354023106228@newsletter',
-          newsletterName: 'JawadTechX',
+          newsletterName: 'Peacemaker md',
           serverMessageId: 143
         }
       }
