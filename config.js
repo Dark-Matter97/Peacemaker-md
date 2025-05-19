@@ -43,7 +43,7 @@ OWNER_NAME: process.env.OWNER_NAME || "EMMANUEL",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© powered by PEACEMAKER*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/o3mkn9.jpeg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/degy3b.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> AM ACTIVE *PEACEMAKER-MD*🐕‍🦺",
 // add alive msg here 
