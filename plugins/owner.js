@@ -26,7 +26,7 @@ let dec = `*👋 Hello ${pushname}*
 *⚡Owner name -: EMMANUEL*
 *⚡Number* -: Wa/me+254726293089
 
- ⚡️◦ https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3
+ ⚡️◦ https://whatsapp.com/channel/0029Vb5O5AGEawdqTdMRj514
 
 > *Powered by EMMANUEL*
 `;
@@ -51,14 +51,14 @@ try{
 
 let dec = `*📍ℝ𝔼ℙ𝕆-𝕃𝕀ℕ𝕂 ❤️‍🔥👇*
 
-👨‍💻◦https://github.com/Peacemaker-cyber/PEACEMAKER-MD 
+👨‍💻◦https://github.com/Peacemaker-cyber/Peacemaker-md 
 
 
 *📍ℙ𝕃𝔼𝔸𝕊𝔼 𝔽𝕆𝕃𝕃𝕆𝕎 𝕄𝕐 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃 ❤️‍🔥👇*
 
 👨‍💻◦ https://whatsapp.com/channel/0029Vb5O5AGEawdqTdMRj514
 
-> *Powered by EMMANUEL*
+> *Powered by Peacemaker-cyber*
 `;
 await conn.sendMessage(from,{image:{url: config.MENU_IMG},caption:dec},{quoted:mek});
 
@@ -97,7 +97,7 @@ reply(`${e}`)
 cmd({
     pattern: "alive",
     desc: "Check bot online or no.",
-    react: "👋",
+    react: "💥",
     category: "owner",
     filename: __filename
 },
@@ -274,7 +274,7 @@ cmd({
     pattern: "ping",
     desc: "Check bot's response time.",
     category: "owner",
-    react: "✅",
+    react: "💠",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
