@@ -21,7 +21,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃🪀┃• *👨‍💻 Creator*: peacemaker
 ┃🪀┃• *🧬 Version*: 4.0.0
 ╰──────────────┈⊷
-> © NEXUS-𝐗𝐌𝐃`;
+> © PEACEMAKER-𝐌𝐃`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
