@@ -43,7 +43,7 @@ Powered By *Peacemaker Cyber* 💜`;
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
-            image: { url: `https://files.catbox.moe/7zfdcq.jpg` },  // Image URL
+            image: { url: `https://files.catbox.moe/degy3b.jpg` },  // Image URL
             caption: formattedCode,
             contextInfo: {
                 mentionedJid: [m.sender],
@@ -51,7 +51,7 @@ Powered By *Peacemaker Cyber* 💜`;
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363288304618280@newsletter',
-                    newsletterName: 'Pkdriller',
+                    newsletterName: 'Peacemaker',
                     serverMessageId: 143
                 }
             }
