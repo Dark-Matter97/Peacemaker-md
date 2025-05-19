@@ -53,7 +53,7 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/JawadYT36/KHAN-MD';
+    const githubRepo = 'https://github.com/Peacemaker-cyber/Peacemaker-md';
 
     // Check update status
     let updateMessage = `✅ Your PEACEMAKER-MD bot is up-to-date!`;
