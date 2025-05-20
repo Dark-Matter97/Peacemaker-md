@@ -1,7 +1,7 @@
 {
   "name": "PEACEMAKER-MD",
   "description": "Javascript WhatsApp bot made by EMMANUEL",
-  "logo": "https://files.catbox.moe/o3mkn9.jpeg",
+  "logo": "https://files.catbox.moe/degy3b.jpg",
   "keywords": ["PEACEMAKER-MD"],
   "success_url": "/",
 
@@ -132,7 +132,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/o3mkn9.jpeg"
+      "value": "https://files.catbox.moe/degy3b.jpg"
     },
      
     "DESCRIPTION": {
