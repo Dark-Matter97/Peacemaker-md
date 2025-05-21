@@ -5,7 +5,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://files.catbox.moe/degy3b.jpg"  width="300" height="200">
+<img src = "https://files.catbox.moe/yndl4u.jpg"  width="300" height="200">
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&linesPEACEMAKER-MD+MD+WHATSAPP+BOT+MD" alt="">
