@@ -51,6 +51,8 @@
 
    3.DEPLOY ON KOYEB 
       <td><a href="https://app.koyeb.com/services/deploy?type=git&repositoryPeacemaker-cyber/PEACEMAKER-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+  
+   
    4..DEPLOY ON GITHUB ⤵️
 
 
