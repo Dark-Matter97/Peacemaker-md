@@ -25,11 +25,11 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             await conn.sendMessage(from, {
                 document: pdfData,
                 mimetype: 'application/pdf',
-                fileName: 'PopkidTech.pdf',
+                fileName: 'Peacemaker.pdf',
                 caption: `
 *📄 PDF created successully!*
 
-> © Created By Popkid 💜`
+> © Created By Peacemaker 💜`
             }, { quoted: mek });
         });
 
