@@ -75,7 +75,7 @@ cmd({
     await reply(
       `🔍 *Image Analysis Results*\n\n` +
       `${scanResponse.data.result}\n\n` +
-      `> © Powered by PopkidXtech 💜`
+      `> © Powered by Peacemaker 💜`
     );
 
   } catch (error) {
