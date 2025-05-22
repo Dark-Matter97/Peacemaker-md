@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY PEACEMAKER-MD 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY POPKID-MD 🤍*",
 // set the auto reply massage on status reply  
 WELCOME: process.env.WELCOME || "true",
 // true if want welcome and goodbye msg in groups    
@@ -27,9 +27,9 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/degy3b.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "PEACEMAKER-MD",
+BOT_NAME: process.env.BOT_NAME || "PEACEMAKER MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "PEACEMAKER-MD",
+STICKER_NAME: process.env.STICKER_NAME || "PEACEMAKER MD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -37,24 +37,20 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "254726293089",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "254732297194",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "EMMANUEL",
+OWNER_NAME: process.env.OWNER_NAME || "PEACEMAKER",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© powered by PEACEMAKER*",
+DESCRIPTION: process.env.DESCRIPTION || "*© powered by Peacemaker md*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/degy3b.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> AM ACTIVE *PEACEMAKER-MD*🐕‍🦺",
+LIVE_MSG: process.env.LIVE_MSG || "> AM ACTIVE *PEACEMAKER MD*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
 AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
-HEART_REACT: process.env.HEART_REACT || "false",
-// make this true or false for heart reactions only 
-OWNER_REACT: process.env.OWNER_REACT || "false",
-// make it true or fasle for only react on owner msg only
 ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words  
 MODE: process.env.MODE || "public",
