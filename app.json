@@ -1,8 +1,8 @@
 {
-  "name": "PEACEMAKER-MD",
-  "description": "Javascript WhatsApp bot made by EMMANUEL",
+  "name": "PEACEMAKER MD",
+  "description": "Javascript WhatsApp bot made by Popkid",
   "logo": "https://files.catbox.moe/degy3b.jpg",
-  "keywords": ["PEACEMAKER-MD"],
+  "keywords": ["PEACE-MAKER"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "PEACEMAKER-MD"
+      "value": "PEACEMAKER MD"
     }, 
       
     "PREFIX": {
@@ -68,32 +68,25 @@
       "description": "make it true for automatic status reaction or like.",
       "required": true,
       "value": "true"
-      },
-
-    "OWNER_REACT": {
-      "description": "Make it true if you only want react on Owner Massages.",
-      "required": false,
-      "value": "false"
     }, 
 
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
       "value": "false"
-      
     }, 
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY PEACEMAKER-MD 🖤*"
+      "value": "*SEEN YOUR STATUS  🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "EMMANUEL"
+      "value": "PEACE MAKER"
 }, 
 
     "OWNER_NUMBER": {
@@ -106,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "PEACEMAKER-MD"
+      "value": "PEACEMAKER MD"
 
       }, 
 
@@ -132,13 +125,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/degy3b.jpg"
+      "value": "https://files.catbox.moe/tkebt3.jpg"
     },
      
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ EMMANUEL*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ peacemaker"
     },
 
       "DELETE_LINKS": {
