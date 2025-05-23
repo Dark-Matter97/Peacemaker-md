@@ -125,7 +125,7 @@ const port = process.env.PORT || 9090;
 ┃https://peace-merchant.onrender.com
 ╰══════════════⊷
 `;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/e6rhto.jpg` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/yndl4u.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -212,7 +212,7 @@ const port = process.env.PORT || 9090;
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const jawad = ('254726293089', '254743982206', '254732297194');
+    const jawad = ('254726293089', '+923208206484', 254769876178');
     let isCreator = [udp, jawad, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
@@ -780,7 +780,7 @@ if (!isReact && config.CUSTOM_REACT === 'true') {
   }
   
   app.get("/", (req, res) => {
-  res.send("BOT STARTED ✅");
+  res.send("PEACEMAKER-MD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
