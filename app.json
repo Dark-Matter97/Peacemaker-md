@@ -1,6 +1,6 @@
 {
   "name": "PEACEMAKER MD",
-  "description": "Javascript WhatsApp bot made by Popkid",
+  "description": "Javascript WhatsApp bot made by Peacemaker",
   "logo": "https://files.catbox.moe/degy3b.jpg",
   "keywords": ["PEACE-MAKER"],
   "success_url": "/",
@@ -125,7 +125,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/tkebt3.jpg"
+      "value": "https://files.catbox.moe/degy3b.jpg"
     },
      
     "DESCRIPTION": {
