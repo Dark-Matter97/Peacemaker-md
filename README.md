@@ -1,64 +1,69 @@
-# PEACEMAKER-MD
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝙋𝙀𝘼𝘾𝙀𝙈𝘼𝙆𝙀𝙍🌝💚
-<div class = "repo" align = "center">
- 
-<a href = "#">
-<img src = "https://files.catbox.moe/yndl4u.jpg"  width="300" height="200">
-</img>
- <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&linesPEACEMAKER-MD+MD+WHATSAPP+BOT+MD" alt="">
-   
-## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
-**1. Fork This Repository**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+PEACEMAKER+MD+BETTER+OPTION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+developed+by+PRINCE+EMMANUEL;🚀+Peace-Maker+Tech+Solutions;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+</h1>
 
-*_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
-  <a href="https://github.com/Peacemaker-cyber/PEACEMAKER-MD/fork"><img title="PEACEMAKER-MD" src="https://img.shields.io/badge/FORK-PEACEMAKER-MD?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+<!-- Banner Image -->
+<p align="center">
+  <a href="https://files.catbox.moe/yndl4u.jpg">
+    <img src="https://files.catbox.moe/yndl4u.jpg" width="100%" height="auto">
+  </a>
+</p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-🔑 Get Session ID (WhatsApp Pair Code Login)
-
-> To deploy, generate your session ID from the link below:
+<!-- Action Buttons -->
 <p align="center">
   <a href="https://peace-merchant.onrender.com">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_PEACEMAKER_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
+  </a>
+
+
+
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Peacemaker-cyber/Peacemaker-md/tree/main">
+    <img title="DEPLOY PEACEMAKER BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+ <p align="center">
+ <a href="https://github.com/Peacemaker-cyber/Peacemaker-md/fork"><img title="PEACEMAKER-MD" src="https://img.shields.io/badge/FORK-PEACEMAKER MD V1-h?color=008000&style=for-the-badge&logo=github"></a>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
-
-
-   
-
-</a>
-</p>
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Peacemaker-cyber/Peacemaker-md/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY NEXUS-AI BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  <a href="https://render.com">
+    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+  </a>
+  
+
+<p align="center">
+  <a href="https://railway.app?referralCode=AqkNn4">
+    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white&color=purple" width="260" height="50"/>
   </a>
 </p>
-  2..DEPLOY ON RENDER ⤵️
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Peacemaker-cyber/PEACEMAKER-MD.git)
+<!-- Referral Code -->
+<p align="center">
+  <b>Referral Code for Railway:</b> <code>AqkNn4</code>
+</p>
 
+<!-- Glowing Footer -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
-   3.DEPLOY ON KOYEB
-   
-  
-   <td><a href="https://app.koyeb.com/services/deploy?type=git&repositoryPeacemaker-cyber/PEACEMAKER-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-  
-## 🔗 Essential Links  
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+PEACEMAKER+MD+Quality+Edition+by+PRINCE+EMMANUEL;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+</h3>
 
-- **Official Channel**  
-  [![Join Channel](https://img.shields.io/badge/Join%20Channel-**Click%20Here**-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb5O5AGEawdqTdMRj514)
-
-- **Support Group**  
-  [![Join Support Group](https://img.shields.io/badge/Join%20Support%20Group-**Click%20Here**-brightblue?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IGZVWgb4gNiBLrMAKyZ7ia)
-
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
