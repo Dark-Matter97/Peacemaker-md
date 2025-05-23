@@ -28,13 +28,13 @@ cmd({
             return reply("Failed to fetch the video. Please try again later.");
         }
 
-        let ytmsg = `📹 *PEACE MAKER Video Downloader*
+        let ytmsg = `📹 *PEACEMAKER Video Downloader*
 🎬 *Title:* ${yts.title}
 ⏳ *Duration:* ${yts.timestamp}
 👀 *Views:* ${yts.views}
 👤 *Author:* ${yts.author.name}
 🔗 *Link:* ${yts.url}
-> Powered by PopkidXtech❤️`;
+> Powered by Peacemaker md❤️`;
 
         // Send video directly with caption
         await conn.sendMessage(
