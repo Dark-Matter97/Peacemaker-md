@@ -34,7 +34,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  <p align="center">
- <a href="https://github.com/Peacemaker-cyber/Peacemaker-md/fork"><img title="PEACEMAKER-MD" src="https://img.shields.io/badge/FORK-PEACEMAKER MD V1-h?color=008000&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/Peacemaker-cyber/Peacemaker-md/fork"><img title="PEACEMAKER-MD" src="https://img.shields.io/badge/FORK-PEACEMAKER MD-h?color=008000&style=for-the-badge&logo=github"></a>
 
 
 
