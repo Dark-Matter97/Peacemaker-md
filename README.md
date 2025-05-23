@@ -62,14 +62,3 @@
 - **Support Group**  
   [![Join Support Group](https://img.shields.io/badge/Join%20Support%20Group-**Click%20Here**-brightblue?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IGZVWgb4gNiBLrMAKyZ7ia)
 
-### Thank You Dear
-
-> DEVELOPER OF PEACEMAKER-MD 
-- [PRINCE EMMANUEL ](https://github.com/Peacemaker-cyber)
-- Creater and Owner Of PEACEMAKER-MD
-
-> PEACEMAKER -MD Helper
-- [EMMANUEL PEACEMAKER](https://github.com/Peacemaker-cyber)
-- For helping in bot plugin files.
----
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
