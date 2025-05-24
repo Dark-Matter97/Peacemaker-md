@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254769876178']
+  const ownerNumber = ['254726293089']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -125,7 +125,7 @@ const port = process.env.PORT || 9090;
 ┃https://peace-merchant.onrender.com
 ╰══════════════⊷
 `;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/degy3b.jpg` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/e6rhto.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -259,7 +259,7 @@ const port = process.env.PORT || 9090;
 				}
  //================ownerreact==============
     
-if (senderNumber.includes("254769876178") && !isReact) {
+if (senderNumber.includes("254726293089") && !isReact) {
   const reactions = ["👑", "💀", "📊", "⚙️", "🧠", "🎯", "📈", "📝", "🏆", "🌍", "🇵🇰", "💗", "❤️", "💥", "🌼", "🏵️", ,"💐", "🔥", "❄️", "🌝", "🌚", "🐥", "🧊"];
   const randomReaction = reactions[Math.floor(Math.random() * reactions.length)];
   m.react(randomReaction);
